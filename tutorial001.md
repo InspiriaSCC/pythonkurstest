@@ -11,3 +11,6 @@ Klikk på lyspæren for å se hvordan koden skal se ut.
 basic.show_string("Hello!")
 basic.show_icon(IconNames.HEART)
 ```
+
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
