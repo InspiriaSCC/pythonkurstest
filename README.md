@@ -1,6 +1,9 @@
 
 > Open this page at [https://inspiriascc.github.io/pythonkurstest/](https://inspiriascc.github.io/pythonkurstest/)
 
+## Tutorial links:
+* [Introduksjon](https://makecode.microbit.org/#tutorial:github:InspiriaSCC/pythonkurstest/tutorial001)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
